@@ -9,7 +9,6 @@ const GymSystem = () => {
   const [id, setId] = useState(1)
   const [typeOrder, setTypeOrder] = useState("recentlyAdded")
   const [concluded, setConcluded] = useState([])
-  console.log(items)
 
   const handleAddItem = (item) => {
     setItem([...items, item])
