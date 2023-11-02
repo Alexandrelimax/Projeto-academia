@@ -17,7 +17,9 @@ button {
 .select,
 input {
   background-color: rgb(120, 139, 195);
+  color: #fff;
 }
 .addButton {
   background-color: #f36284;
+  color: #fff;
 }
