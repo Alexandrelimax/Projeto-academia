@@ -1,0 +1,10 @@
+.buttonDelete {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: red;
+  margin-left: 15px;
+}
+
+span {
+  padding: 0 5px;
+}

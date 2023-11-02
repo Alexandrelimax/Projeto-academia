@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  padding: 40px 0px;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  background-color: #3f4d77;
+}
+
+.select,
+input,
+button {
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+}
+.select,
+input {
+  background-color: rgb(120, 139, 195);
+}
+.addButton {
+  background-color: #f36284;
+}

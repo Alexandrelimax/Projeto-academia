@@ -1,3 +1,12 @@
-const App = () => <h1>BoilerPlateReact + Vite</h1>
+import GymSystem from "./components/GymSystem"
+import Header from "./components/Header"
+const App = () => {
+  return (
+    <>
+      <Header />
+      <GymSystem />
+    </>
+  )
+}
 
 export { App }

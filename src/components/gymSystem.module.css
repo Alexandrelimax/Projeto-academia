@@ -1,0 +1,34 @@
+.mainContainer {
+  min-height: 50vh;
+  background-color: #dfc0a4;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.settersButtons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+  gap: 15px;
+}
+.listItems {
+  margin-top: 20px;
+  height: 300px;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+}
+.typeOrder {
+  padding: 10px 20px;
+  background-color: rgb(120, 139, 195);
+  border-radius: 5px;
+  border: none;
+}
+.clearAll {
+  padding: 10px 20px;
+  background-color: #fc844b;
+  color: #fff;
+}

@@ -1,0 +1,10 @@
+.containerFooter {
+  min-height: 10vh;
+  background-color: #3f4d77;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-size: 25px;
+}

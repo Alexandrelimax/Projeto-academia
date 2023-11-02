@@ -1,0 +1,16 @@
+.containerHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(48, 48, 117);
+}
+.logo {
+  width: 200px;
+}
+.img > img {
+  width: 100%;
+}
+h1 {
+  font-size: 3em;
+  color: rgb(245, 223, 194);
+}
